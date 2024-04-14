@@ -1,6 +1,6 @@
 Obwohl Siemens ein deutsches Unternehmen ist kann man im LWE nur das Format YYYY-MM-DD auswählen. Um das Datum im Format DD-MM-YYYY anzuzeigen muss ein bisschen was in der \js\render.js Datei verändert werden. Hier können auch die Abkürzungen der Wochentage angepasst werden. 
 
-Alle Zeilenangaben sind auf Notepad++ bezogen.
+Alle Zeilenangaben sind auf [ Notepad++](https://notepad-plus-plus.org/) bezogen. 
 
 \js\render.js in Notepad++ öffnen.
 
